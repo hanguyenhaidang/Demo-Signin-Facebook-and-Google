@@ -1,5 +1,5 @@
 const { OAuth2Client } = require("google-auth-library");
-const clientId = "895731525293-i3tcc1kh1ni5eimm82qp6nc9nplqou34.apps.googleusercontent.com"
+const clientId = "103288728520179"
 const client = new OAuth2Client(clientId);
 
 module.exports.signIn = (req, res) => {
