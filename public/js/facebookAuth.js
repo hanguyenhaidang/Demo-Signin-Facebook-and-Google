@@ -30,7 +30,7 @@ $(document).ready(() => {
 
 window.fbAsyncInit = function() {
     FB.init({
-        appId: "264747745233234",
+        appId: "276702183860297",
         cookie: true,
         xfbml: true,
         version: "v10.0",
